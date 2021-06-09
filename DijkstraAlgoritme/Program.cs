@@ -13,8 +13,7 @@ namespace DijkstraAlgoritme
          (met de richtlijnen van Dijkstra), zodat de computer vanuit deze
          matrix de kortste weg van startpunt '0' naar elke ander punt kan 
          berekenen.
-         
-        https://www.geeksforgeeks.org/csharp-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
+         (De tekening zit als bijlage onder "/images")
      */
 
     class Program
